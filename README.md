@@ -4,5 +4,7 @@ A simple CLI tool that searches for a movie on rutracker.org, downloads it, and 
 ## TODO
 
 [] Scrape RuTracker.org
+
 [] Download movie
+
 [] Manage storage
